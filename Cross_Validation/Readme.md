@@ -1,4 +1,4 @@
-# Cross Validation - Exercise 2
+# Cross Validation 
 
 This project demonstrates the implementation of **K-Fold Cross Validation** using the Avocado dataset.  
 Cross Validation is a supervised learning technique that helps evaluate and improve machine learning models by preventing **overfitting** and allowing fair comparison of models.
@@ -74,7 +74,8 @@ Cross Validation is a supervised learning technique that helps evaluate and impr
 
 
 ---
-📂 Files in This Folder
+
+## 📂 Files in This Folder
 
 ex2- cross validation.py → Main script
 
@@ -84,7 +85,7 @@ Rsquared value vs K-folds.png → Visualization of CV results
 
 ---
 
-🔑 Learnings
+## 🔑 Learnings
 
 Cross validation provides a better estimate of model performance.
 
