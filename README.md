@@ -1,7 +1,7 @@
 # Machine Learning Exercises
 
-This repository contains implementations and experiments with various **Machine Learning algorithms and techniques**.  
-The exercises are designed to help understand the concepts, build intuition, and apply ML methods to datasets.
+- This repository contains implementations and experiments with various **Machine Learning algorithms and techniques**.
+- The exercises are designed to help understand the concepts, build intuition, and apply ML methods to datasets.
 
 ---
 
@@ -74,18 +74,14 @@ The repository covers the following topics:
 
 ## 📊 Results
 
-Visualizations (scatter plots, decision boundaries, feature importance, etc.)
-
-Accuracy, Precision, Recall, F1-Score, RMSE depending on the model type
-
-Comparisons between different algorithms
+- Visualizations (scatter plots, decision boundaries, feature importance, etc.)
+- Accuracy, Precision, Recall, F1-Score, RMSE depending on the model type
+- Comparisons between different algorithms
 
 ---
 
 ## 📖 Learning Outcomes
 
-Understand the working of core ML algorithms
-
-Learn how to preprocess data and evaluate models
-
-Gain experience with ensemble methods like Bagging, Boosting, and Random Forest
+- Understand the working of core ML algorithms
+- Learn how to preprocess data and evaluate models
+- Gain experience with ensemble methods like Bagging, Boosting, and Random Forest
