@@ -1,4 +1,4 @@
-# Regression Project  
+# Regression 
 
 ## 📌 Overview  
 This project demonstrates regression analysis using machine learning.  
@@ -9,8 +9,10 @@ The goal is to predict the target variable based on given features.
 - It contains features such as:  
   - Feature 1  
   - Feature 2  
-  - Feature 3  
-  - ...  
+  - Feature 3
+
+
+  ---
 
 ## ⚙️ Requirements  
 Make sure you have the following installed:  
