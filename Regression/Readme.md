@@ -1,8 +1,8 @@
 # Regression 
 
 ## 📌 Overview  
-This project demonstrates regression analysis using machine learning.  
-The goal is to predict the target variable based on given features.  
+- This project demonstrates regression analysis using machine learning.
+- The goal is to predict the target variable based on given features.  
 
 ## 📂 Dataset  
 - The dataset used is stored in: `data/your_file.csv`  
@@ -37,26 +37,21 @@ Make sure you have the following installed:
 
 ## 📊 Models Used
 
-Linear Regression
-
-Multiple Regression
-
-Polynomial Regression
+- Linear Regression
+- Multiple Regression
+- Polynomial Regression
 
 ---
 
 ## 📈 Results
 
-Best model : Multiple Linear Regression 
-
-Model accuracy: 91%
+- Best model : Multiple Linear Regression
+- Model accuracy: 91%
 
 ---
 
 ## 🔮 Future Work
 
-Try other regression algorithms like Ridge, Lasso, Decision Tree Regressor.
-
-Optimize hyperparameters.
-
-Use feature engineering for better accuracy.
+- Try other regression algorithms like Ridge, Lasso, Decision Tree Regressor.
+- Optimize hyperparameters.
+- Use feature engineering for better accuracy.
