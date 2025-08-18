@@ -1,48 +1,87 @@
-# Regression - Exercise 1
+# Machine Learning Exercises
 
-This project demonstrates the implementation of a regression model to predict continuous values based on given input features. The dataset is processed, analyzed, and used to train and evaluate a regression model.
+- This repository contains implementations and experiments with various **Machine Learning algorithms and techniques**.
+- The exercises are designed to help understand the concepts, build intuition, and apply ML methods to datasets.
 
-## Objectives
-- Understand the concept of regression.
-- Load and explore the dataset.
-- Preprocess the data (handle missing values, scale features, etc.).
-- Train a regression model.
-- Evaluate the model's performance using appropriate metrics.
+---
 
-## Steps Performed
-1. **Importing Libraries** – Loaded necessary Python libraries like `pandas`, `numpy`, `matplotlib`, `scikit-learn`.
-2. **Loading Data** – Read dataset into a Pandas DataFrame.
-3. **Exploratory Data Analysis (EDA)** – Checked for missing values, data types, and basic statistics.
-4. **Data Preprocessing** – Scaled features, handled null values if present.
-5. **Model Training** – Used regression algorithms such as Linear Regression.
-6. **Model Evaluation** – Used metrics like Mean Squared Error (MSE) and R² Score to evaluate performance.
-7. **Visualization** – Plotted prediction vs actual values for better understanding.
+## 📂 Contents
+The repository covers the following topics:
 
-## Technologies Used
-- **Python**
-- **Pandas**
-- **NumPy**
-- **Matplotlib**
-- **Scikit-learn**
+1. **Regression**
+   - Simple Linear Regression
+   - Multiple Linear Regression
+   - Polynomial Regression
 
-## Output
-- Trained regression model.
-- Evaluation metrics showing model performance.
-- Visual plots for better understanding of predictions.
+2. **Cross Validation**
+   - k-Fold Cross Validation
+   - Stratified k-Fold Cross Validation
 
-## How to Run
+3. **Decision Trees**
+   - Classification Trees
+   - Pruning
+
+4. **Naive Bayes**
+   - Gaussian Naive Bayes
+   - Multinomial Naive Bayes
+   - Bernoulli Naive Bayes
+
+5. **K-Nearest Neighbors (KNN)**
+   - Distance metrics (Euclidean)
+   - Hyperparameter tuning (k-value)
+   - Elbow curve to find k value
+
+6. **Bagging**
+   - Bootstrap Aggregation
+   - Bagging Classifier
+
+7. **Boosting**
+   - AdaBoost
+   - Gradient Boosting
+   - XGBoost
+
+8. **Random Forest**
+   - Random Forest Classifier
+
+---
+
+## ⚙️ Tech Stack
+- **Language:** Python 🐍  
+- **Libraries Used:**  
+  - `numpy`  
+  - `pandas`  
+  - `matplotlib` / `seaborn`  
+  - `scikit-learn`  
+  - `xgboost` (for Boosting)
+
+---
+
+## 🚀 How to Run
 1. Clone this repository:
-   ```bash
-    git clone <repository-link>Navigate to the project directory.
+  
+       git clone https://github.com/your-username/ML-Exercises.git
+       cd ML-Exercises
 
-2.Install required dependencies:
+2.Install dependencies:
 
-    pip install -r requirements.txt
+       pip install -r requirements.txt
 
+3.Run the scripts (example for regression):
 
-3.Run the Python file:
+      python regression.py
 
-    python regression_exercise1.py
+---
 
+## 📊 Results
 
+- Visualizations (scatter plots, decision boundaries, feature importance, etc.)
+- Accuracy, Precision, Recall, F1-Score, RMSE depending on the model type
+- Comparisons between different algorithms
 
+---
+
+## 📖 Learning Outcomes
+
+- Understand the working of core ML algorithms
+- Learn how to preprocess data and evaluate models
+- Gain experience with ensemble methods like Bagging, Boosting, and Random Forest
