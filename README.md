@@ -1,4 +1,4 @@
-# 🧠 Machine Learning Lab – Exercises
+# 🧠 Machine Learning
 
 This repository contains hands-on exercises for various **Machine Learning algorithms and techniques**.  
 Each folder corresponds to a specific topic with code, datasets, and visualizations.
