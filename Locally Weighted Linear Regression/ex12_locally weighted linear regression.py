@@ -2,7 +2,9 @@
 focuses on nearby data points
 used in time series forecasting
 provides better prediction
+this is used for bug fixing in devops ex2
 '''
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
